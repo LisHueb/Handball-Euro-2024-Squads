@@ -4,5 +4,5 @@ The interactive version with information about each player is available on my [T
 
 ![Visualization](./Visualization_Euro_2024_Squads.png)
 
-The [Dataset](./handball_euro_2024_dataset.csv) was extracted from [wikipedia](https://en.wikipedia.org/wiki/2024_European_Men%27s_Handball_Championship_squads).
+The [Data](./handball_euro_2024_dataset.csv) was extracted from [wikipedia](https://en.wikipedia.org/wiki/2024_European_Men%27s_Handball_Championship_squads).
 
