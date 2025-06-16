@@ -1,0 +1,455 @@
+;Country;Name;Pos;Club;Clubnat;Clubnat_long
+0;France;Samir Bellahcene;GK;THW Kiel;GER;Germany
+1;France;Yanis Lenne;RW;Montpellier Handball;FRA;France
+2;France;Nedim Remili;CB;Telekom Veszprém;HUN;Hungary
+3;France;Elohim Prandi;LB;Paris Saint-Germain;FRA;France
+4;France;Melvyn Richardson;RB;Barça;ESP;Spain
+5;France;Dika Mem;RB;Barça;ESP;Spain
+6;France;Nicolas Tournat;P;Industria Kielce;POL;Poland
+7;France;Nikola Karabatić;LB;Paris Saint-Germain;FRA;France
+8;France;Kentin Mahé;CB;Telekom Veszprém;HUN;Hungary
+9;France;Charles Bolzinger;GK;Montpellier Handball;FRA;France
+10;France;Timothey N'Guessan;LB;Barça;ESP;Spain
+11;France;Luka Karabatic;P;Paris Saint-Germain;FRA;France
+12;France;Ludovic Fabregas;P;Telekom Veszprém;HUN;Hungary
+13;France;Hugo Descat;LW;Telekom Veszprém;HUN;Hungary
+14;France;Valentin Porte;RW;Montpellier Handball;FRA;France
+15;France;Benoît Kounkoud;RW;Industria Kielce;POL;Poland
+16;France;Dylan Nahi;LW;Industria Kielce;POL;Poland
+17;France;Karl Konan;P;Montpellier Handball;FRA;France
+18;France;Rémi Desbonnet;GK;Montpellier Handball;FRA;France
+19;Germany;David Späth;GK;Rhein-Neckar Löwen;GER;Germany
+20;Germany;Nils Lichtlein;CB;Füchse Berlin;GER;Germany
+21;Germany;Johannes Golla;P;SG Flensburg-Handewitt;GER;Germany
+22;Germany;Sebastian Heymann;LB;Frisch Auf Göppingen;GER;Germany
+23;Germany;Justus Fischer;P;TSV Hannover-Burgdorf;GER;Germany
+24;Germany;Juri Knorr;CB;Rhein-Neckar Löwen;GER;Germany
+25;Germany;Lukas Zerbe;RW;TBV Lemgo;GER;Germany
+26;Germany;Julian Köster;LB;VfL Gummersbach;GER;Germany
+27;Germany;Philipp Weber;CB;SC Magdeburg;GER;Germany
+28;Germany;Renars Uščins;RB;TSV Hannover-Burgdorf;GER;Germany
+29;Germany;Kai Häfner;RB;TVB Stuttgart;GER;Germany
+30;Germany;Tim Nothdurft;LW;Bergischer HC;GER;Germany
+31;Germany;Andreas Wolff;GK;Industria Kielce;POL;Poland
+32;Germany;Rune Dahmke;LW;THW Kiel;GER;Germany
+33;Germany;Lukas Mertens;LW;SC Magdeburg;GER;Germany
+34;Germany;Martin Hanne;LB;TSV Hannover-Burgdorf;GER;Germany
+35;Germany;Christoph Steinert;RB;HC Erlangen;GER;Germany
+36;Germany;Timo Kastening;RW;MT Melsungen;GER;Germany
+37;Germany;Jannik Kohlbacher;P;Rhein-Neckar Löwen;GER;Germany
+38;North Macedonia;Nikola Mitrevski;GK;FC Porto;POR;Portugal
+39;North Macedonia;Edvin Omeragikj;LB;RK Alkaloid;MKD;North Macedonia
+40;North Macedonia;Martin Velkovski;RB;RK Alkaloid;MKD;North Macedonia
+41;North Macedonia;Igor Gjorgiev;CB;RK Alkaloid;MKD;North Macedonia
+42;North Macedonia;Marko Mitev;CB;RK Alkaloid;MKD;North Macedonia
+43;North Macedonia;Filip Taleski;LB;SL Benfica;POR;Portugal
+44;North Macedonia;Martin Tomovski;GK;RK Vardar 1961;MKD;North Macedonia
+45;North Macedonia;Nikola Markoski;P;RK Alkaloid;MKD;North Macedonia
+46;North Macedonia;Filip Kuzmanovski;CB;RK Eurofarm Pelister;MKD;North Macedonia
+47;North Macedonia;Nenad Kosteski;RW;RK Eurofarm Pelister;MKD;North Macedonia
+48;North Macedonia;Marko Kizikj;GK;RK Eurofarm Pelister;MKD;North Macedonia
+49;North Macedonia;Nikola Kosteski;RW;Talent Plzeň;CZE;Czech Republic
+50;North Macedonia;Žarko Peševski;P;RK Eurofarm Pelister;MKD;North Macedonia
+51;North Macedonia;Tomislav Jagurinovski;RB;RK Vardar 1961;MKD;North Macedonia
+52;North Macedonia;Milan Lazarevski;P;RK Vardar 1961;MKD;North Macedonia
+53;North Macedonia;Ivan Džonov;LB;RK Alkaloid;MKD;North Macedonia
+54;North Macedonia;Petar Atanasijevikj;LW;RK Eurofarm Pelister;MKD;North Macedonia
+55;North Macedonia;David Savrevski;RB;RK Alkaloid;MKD;North Macedonia
+56;Switzerland;Andy Schmid;CB;HC Kriens-Luzern;SUI;Switzerland
+57;Switzerland;Lucas Meister;P;SC Magdeburg;GER;Germany
+58;Switzerland;Lenny Rubin;LB;HSG Wetzlar;GER;Germany
+59;Switzerland;Cédrie Tynowski;RW;Pfadi Winterthur;SUI;Switzerland
+60;Switzerland;Manuel Zehnder;LB;ThSV Eisenach;GER;Germany
+61;Switzerland;Marvin Lier;LW;Kadetten Schaffhausen;SUI;Switzerland
+62;Switzerland;Leonard Grazioli;GK;HSG Wetzlar;GER;Germany
+63;Switzerland;Michael Kusio;RB;BSV Bern;SUI;Switzerland
+64;Switzerland;Nicolas Raemy;RB;Wacker Thun;SUI;Switzerland
+65;Switzerland;Nikola Portner;GK;SC Magdeburg;GER;Germany
+66;Switzerland;Zoran Markovic;CB;Kadetten Schaffhausen;SUI;Switzerland
+67;Switzerland;Luka Maros;LB;Kadetten Schaffhausen;SUI;Switzerland
+68;Switzerland;Gino Steenaerts;RW;HC Kriens-Luzern;SUI;Switzerland
+69;Switzerland;Lukas Laube;P;TVB Stuttgart;GER;Germany
+70;Switzerland;Maximilian Gerbl;RW;TSV Hannover-Burgdorf;GER;Germany
+71;Switzerland;Samuel Zehnder;LW;TBV Lemgo;GER;Germany
+72;Switzerland;Joël Willecke;P;HSC Suhr Aarau;SUI;Switzerland
+73;Switzerland;Aurel Bringolf;GK;BSV Bern;SUI;Switzerland
+74;Switzerland;Felix Aellen;CB;BSV Bern;SUI;Switzerland
+75;Switzerland;Mehdi Ben Romdhane;CB;Kadetten Schaffhausen;SUI;Switzerland
+76;Austria;Markus Mahr;LB;Bregenz Handball;AUT;Austria
+77;Austria;Janko Božović;RB;Al-Sulaibikhat;KUW;Kuwait
+78;Austria;Sebastian Frimmel;LW;OTP Bank-Pick Szeged;HUN;Hungary
+79;Austria;Nemanja Beloš;LB;HSG Graz;AUT;Austria
+80;Austria;Lukas Herburger;P;Kadetten Schaffhausen;SUI;Switzerland
+81;Austria;Robert Weber;RW;HSG Bärnbach/Köflach;AUT;Austria
+82;Austria;Lukas Schweighofer;P;HSG Graz;AUT;Austria
+83;Austria;Boris Zivkovic;RB;KS Azoty-Puławy;POL;Poland
+84;Austria;Moritz Mittendorfer;LB;Union Krems;AUT;Austria
+85;Austria;Ralf Patrick Häusle;GK;Bregenz Handball;AUT;Austria
+86;Austria;Thomas Eichberger;GK;Union Krems;AUT;Austria
+87;Austria;Eric Damböck;LW;Fivers Margareten;AUT;Austria
+88;Austria;Nikola Bilyk;LB;THW Kiel;GER;Germany
+89;Austria;Tobias Wagner;P;Bregenz Handball;AUT;Austria
+90;Austria;Jakob Nigg;RW;Fivers Margareten;AUT;Austria
+91;Austria;Elias Kofler;CB;1 VfL Potsdam;GER;Germany
+92;Austria;Lukas Hutecek;CB;TBV Lemgo;GER;Germany
+93;Austria;Michael Miskovez;RB;Handball Tirol;AUT;Austria
+94;Austria;Constantin Möstl;GK;Alpla HC Hard;AUT;Austria
+95;Croatia;Dominik Kuzmanović;GK;RK Nexe Našice;CRO;Croatia
+96;Croatia;Lovro Mihić;LW;Orlen Wisła Płock;POL;Poland
+97;Croatia;Domagoj Duvnjak;CB;THW Kiel;GER;Germany
+98;Croatia;Mario Šoštarič;RW;OTP Bank-Pick Szeged;HUN;Hungary
+99;Croatia;Matej Mandić;GK;RK Zagreb;CRO;Croatia
+100;Croatia;Filip Ivić;GK;Chambéry Savoie MHB;FRA;France
+101;Croatia;Igor Karačić;CB;Industria Kielce;POL;Poland
+102;Croatia;Mateo Maraš;RB;Tatabánya KC;HUN;Hungary
+103;Croatia;Veron Načinović;P;Montpellier Handball;FRA;France
+104;Croatia;Tomislav Kušan;P;Limoges Handball;FRA;France
+105;Croatia;Marko Mamić;LB;SC DHfK Leipzig;GER;Germany
+106;Croatia;Luka Cindrić;CB;Dinamo București;ROU;Romania
+107;Croatia;Kristian Pilipović;GK;Kadetten Schaffhausen;SUI;Switzerland
+108;Croatia;Tin Lučin;CB;Orlen Wisła Płock;POL;Poland
+109;Croatia;Ivan Martinović;RB;MT Melsungen;GER;Germany
+110;Croatia;Marin Šipić;P;HC Kriens-Luzern;SUI;Switzerland
+111;Croatia;Filip Glavaš;RW;RK Zagreb;CRO;Croatia
+112;Croatia;Zvonimir Srna;LB;RK Zagreb;CRO;Croatia
+113;Croatia;Luka Lovre Klarica;RB;RK Zagreb;CRO;Croatia
+114;Croatia;Marin Jelinić;LW;OTP Bank-Pick Szeged;HUN;Hungary
+115;Romania;Ionuț Iancu;GK;Steaua București;ROU;Romania
+116;Romania;Gabriel Ilie;LB;CSM Constanța;ROU;Romania
+117;Romania;Daniel Stanciuc;P;Dinamo București;ROU;Romania
+118;Romania;Ionuț Nistor;RW;CSM Constanța;ROU;Romania
+119;Romania;Robert Militaru;LB;Dinamo București;ROU;Romania
+120;Romania;Gabriel Cumpănici;CB;CS Minaur Baia Mare;ROU;Romania
+121;Romania;Robert Nagy;P;CS Minaur Baia Mare;ROU;Romania
+122;Romania;Dan Vasile;GK;CSM Constanța;ROU;Romania
+123;Romania;Adrian Rotaru;P;CSM București;ROU;Romania
+124;Romania;Demis Grigoraș;RB;SL Benfica;POR;Portugal
+125;Romania;Dan Racoțea;LB;Dinamo București;ROU;Romania
+126;Romania;Marius Sadoveac;RW;SCM Politehnica Timișoara;ROU;Romania
+127;Romania;Alex Tărâță;RW;Steaua București;ROU;Romania
+128;Romania;Liviu Caba;CB;CSM Constanța;ROU;Romania
+129;Romania;Sabin Constantina;LW;Steaua București;ROU;Romania
+130;Romania;Călin Dedu;P;Dinamo București;ROU;Romania
+131;Romania;Andrei Nicușor Negru;LW;Dinamo București;ROU;Romania
+132;Romania;Andrei Drăgan;CB;CSM Constanța;ROU;Romania
+133;Romania;Radu Ghiță;RB;AHC Potaissa Turda;ROU;Romania
+134;Romania;Andrei Buzle;LB;BM Granollers;ESP;Spain
+135;Spain;Gonzalo Pérez de Vargas;GK;Barça;ESP;Spain
+136;Spain;Iñaki Peciña;P;Chambéry Savoie MHB;FRA;France
+137;Spain;Jorge Maqueda;RB;HBC Nantes;FRA;France
+138;Spain;Ángel Fernández Pérez;LW;Limoges Handball;FRA;France
+139;Spain;Alex Dujshebaev;RB;Industria Kielce;POL;Poland
+140;Spain;Adrià Figueras;P;C' Chartres MHB;FRA;France
+141;Spain;Imanol Garciandia;RB;OTP Bank-Pick Szeged;HUN;Hungary
+142;Spain;Abel Serdio;P;Orlen Wisła Płock;POL;Poland
+143;Spain;Joan Cañellas;LB;Kadetten Schaffhausen;SUI;Switzerland
+144;Spain;Viran Morros;LB;Pfadi Winterthur;SUI;Switzerland
+145;Spain;Agustín Casado;LB;Telekom Veszprém;HUN;Hungary
+146;Spain;Aleix Gómez;RW;Barça;ESP;Spain
+147;Spain;Ian Tarrafeta;CB;Pays d'Aix UC;FRA;France
+148;Spain;Miguel Sánchez-Migallón;LW;SL Benfica;POR;Portugal
+149;Spain;Daniel Dujshebaev;LB;Industria Kielce;POL;Poland
+150;Spain;Sergey Hernández;GK;SC Magdeburg;GER;Germany
+151;Spain;Kauldi Odriozola;RW;HBC Nantes;FRA;France
+152;Spain;Daniel Fernández;LW;TVB Stuttgart;GER;Germany
+153;Spain;Jan Gurri;CB;Sporting CP;POR;Portugal
+154;Hungary;Arián Andó;GK;Balatonfüredi KSE;HUN;Hungary
+155;Hungary;Adrián Sipos;P;MT Melsungen;GER;Germany
+156;Hungary;Bendegúz Bóka;LW;Balatonfüredi KSE;HUN;Hungary
+157;Hungary;Zsolt Krakovszki;RW;NEKA;HUN;Hungary
+158;Hungary;Patrik Ligetvári;LB;Telekom Veszprém;HUN;Hungary
+159;Hungary;Bence Krakovszki;LW;Tatabánya KC;HUN;Hungary
+160;Hungary;Dominik Máthé;RB;Paris Saint-Germain;FRA;France
+161;Hungary;Gergő Fazekas;CB;Orlen Wisła Płock;POL;Poland
+162;Hungary;Bence Bánhidi;P;OTP Bank-Pick Szeged;HUN;Hungary
+163;Hungary;Szabolcs Szöllősi;P;Dabas KK;HUN;Hungary
+164;Hungary;Zoltán Szita;LB;OTP Bank-Pick Szeged;HUN;Hungary
+165;Hungary;Kristóf Palasics;GK;CB Ciudad de Logroño;ESP;Spain
+166;Hungary;Gábor Ancsin;RB;Tatabánya KC;HUN;Hungary
+167;Hungary;Richárd Bodó;LB;OTP Bank-Pick Szeged;HUN;Hungary
+168;Hungary;Zoran Ilić;RB;HSV Hamburg;GER;Germany
+169;Hungary;Miklós Rosta;P;Dinamo București;ROU;Romania
+170;Hungary;László Bartucz;GK;Tatabánya KC;HUN;Hungary
+171;Hungary;Máté Lékai;CB;Ferencvárosi TC;HUN;Hungary
+172;Hungary;Egon Hanusz;CB;TVB Stuttgart;GER;Germany
+173;Hungary;Bence Imre;RW;Ferencvárosi TC;HUN;Hungary
+174;Iceland;Björgvin Páll Gústavsson;GK;Valur;ISL;Iceland
+175;Iceland;Óðinn Þór Ríkharðsson;RW;Kadetten Schaffhausen;SUI;Switzerland
+176;Iceland;Janus Daði Smárason;CB;SC Magdeburg;GER;Germany
+177;Iceland;Aron Pálmarsson;LB;Fimleikafélag Hafnarfjarðar;ISL;Iceland
+178;Iceland;Viggó Kristjánsson;RB;SC DHfK Leipzig;GER;Germany
+179;Iceland;Bjarki Már Elísson;LW;Telekom Veszprém;HUN;Hungary
+180;Iceland;Elvar Örn Jónsson;LB;MT Melsungen;GER;Germany
+181;Iceland;Gísli Þorgeir Kristjánsson;CB;SC Magdeburg;GER;Germany
+182;Iceland;Ýmir Örn Gíslason;P;Rhein-Neckar Löwen;GER;Germany
+183;Iceland;Ómar Ingi Magnússon;RB;SC Magdeburg;GER;Germany
+184;Iceland;Viktor Gísli Hallgrímsson;GK;HBC Nantes;FRA;France
+185;Iceland;Stiven Tobar Valencia;LW;SL Benfica;POR;Portugal
+186;Iceland;Elliði Snær Viðarsson;P;VfL Gummersbach;GER;Germany
+187;Iceland;Arnar Freyr Arnarsson;P;MT Melsungen;GER;Germany
+188;Iceland;Sigvaldi Guðjónsson;RW;Kolstad Håndball;NOR;Norway
+189;Iceland;Kristján Örn Kristjánsson;RB;Pays d'Aix UC;FRA;France
+190;Iceland;Haukur Þrastarson;CB;Industria Kielce;POL;Poland
+191;Iceland;Einar Þorsteinn Ólafsson;LB;Fredericia HK;DEN;Denmark
+192;Montenegro;Nikola Matović;GK;Amo Handboll;SWE;Sweden
+193;Montenegro;Aleksandar Bakić;LW;RK Nexe Našice;CRO;Croatia
+194;Montenegro;Arsenije Dragašević;LB;HC Pfadi Dietlikon;SUI;Switzerland
+195;Montenegro;Miloš Vujović;LW;VfL Gummersbach;GER;Germany
+196;Montenegro;Stefan Čavor;RB;HSG Wetzlar;GER;Germany
+197;Montenegro;Vuk Lazović;P;Al-Najma SC;BHR;Bahrain
+198;Montenegro;Radojica Čepić;CB;HC Kriens-Luzern;SUI;Switzerland
+199;Montenegro;Miodrag Ćorsović;P;RK Trimo Trebnje;SLO;Slovenia
+200;Montenegro;Branko Vujović;RB;TSV Hannover-Burgdorf;GER;Germany
+201;Montenegro;Haris Suljević;GK;RK Izviđač;BIH;Bosnia and Herzegovina
+202;Montenegro;Mirko Radović;RW;RK Lovćen;MNE;Montenegro
+203;Montenegro;Nebojša Simić;GK;MT Melsungen;GER;Germany
+204;Montenegro;Vasilije Kaluđerović;LB;Qadsia SC;KUW;Kuwait
+205;Montenegro;Miloš Božović;LB;US Ivry Handball;FRA;France
+206;Montenegro;Risto Vujačić;RB;HC Ramat HaSharon;ISR;Israel
+207;Montenegro;Luka Radović;RW;Saran Loiret HB;FRA;France
+208;Montenegro;Vojislav Vukić;RW;MRK Krka;SLO;Slovenia
+209;Montenegro;Božo Anđelić;CB;PLER KC;HUN;Hungary
+210;Montenegro;Vuko Borozan;LB;RK Lovćen;MNE;Montenegro
+211;Montenegro;Nemanja Grbović;P;Steaua București;ROU;Romania
+212;Serbia;Vladimir Cupara;GK;Dinamo București;ROU;Romania
+213;Serbia;Vukašin Vorkapić;RW;RK Vojvodina;SRB;Serbia
+214;Serbia;Miloš Kos;LB;RK Zagreb;CRO;Croatia
+215;Serbia;Ilija Abutović;LB;C' Chartres MHB;FRA;France
+216;Serbia;Uroš Borzaš;LB;RK Eurofarm Pelister;MKD;North Macedonia
+217;Serbia;Marko Milosavljević;LB;CB Ademar León;ESP;Spain
+218;Serbia;Uroš Kojadinović;RW;RK Partizan;SRB;Serbia
+219;Serbia;Bogdan Radivojević;RW;RK Eurofarm Pelister;MKD;North Macedonia
+220;Serbia;Nemanja Ilić;LW;Fenix Toulouse;FRA;France
+221;Serbia;Miljan Pušica;LB;RK Vojvodina;SRB;Serbia
+222;Serbia;Vanja Ilić;LW;C' Chartres MHB;FRA;France
+223;Serbia;Miloš Orbović;RB;HC Kriens-Luzern;SUI;Switzerland
+224;Serbia;Predrag Vejin;RB;RK Nexe Našice;CRO;Croatia
+225;Serbia;Lazar Kukić;CB;Dinamo București;ROU;Romania
+226;Serbia;Luka Rogan;P;RK Vojvodina;SRB;Serbia
+227;Serbia;Petar Đorđić;LB;RK Vojvodina;SRB;Serbia
+228;Serbia;Dragan Pechmalbec;P;Telekom Veszprém;HUN;Hungary
+229;Serbia;Mijajlo Marsenić;P;Füchse Berlin;GER;Germany
+230;Serbia;Dejan Milosavljev;GK;Füchse Berlin;GER;Germany
+231;Serbia;Milan Bomaštar;GK;C' Chartres MHB;FRA;France
+232;Faroe Islands;Pauli Jacobsen;GK;HØJ Elitehåndbold;DEN;Denmark
+233;Faroe Islands;Helgi Hildarson Hoydal;P;Kristiansand Topphåndball;NOR;Norway
+234;Faroe Islands;Leivur Mortensen;LW;Frederiksberg IF;DEN;Denmark
+235;Faroe Islands;Allan Norðberg;RW;Valur;ISL;Iceland
+236;Faroe Islands;Pætur Mikkjalsson;P;IF Hallby;SWE;Sweden
+237;Faroe Islands;Rói Berg Hansen;LW;HØJ Elitehåndbold;DEN;Denmark
+238;Faroe Islands;Kjartan Johansen;RB;Bækkelagets SK;NOR;Norway
+239;Faroe Islands;Jónas Gunnarsson Djurhuus;CB;Frederiksberg IF;DEN;Denmark
+240;Faroe Islands;Nicholas Satchwell;GK;TIF Viking;NOR;Norway
+241;Faroe Islands;Hákun West Av Teigum;RW;Füchse Berlin;GER;Germany
+242;Faroe Islands;Vilhelm Poulsen;RB;Lemvig-Thyborøn Håndbold;DEN;Denmark
+243;Faroe Islands;Tróndur Mikkelsen;LB;Kristiansand Topphåndball;NOR;Norway
+244;Faroe Islands;Peter Krogh;RB;HEI Håndbold;DEN;Denmark
+245;Faroe Islands;Ísak Vedelsbøl;P;Hondbóltsfelagið H71;FRO;Faroe Islands
+246;Faroe Islands;Pauli Mittún;LB;Team Sydhavsøerne;DEN;Denmark
+247;Faroe Islands;Elias Ellefsen á Skipagøtu;CB;THW Kiel;GER;Germany
+248;Faroe Islands;Rói Ellefsen á Skipagøtu;CB;IF Hallby;SWE;Sweden
+249;Faroe Islands;Óli Mittún;LB;IK Sävehof;SWE;Sweden
+250;Faroe Islands;Teis Horn Rasmussen;P;HEI Håndbold;DEN;Denmark
+251;Norway;Vetle Eck Aga;CB;Kolstad Håndball;NOR;Norway
+252;Norway;Sander Sagosen;LB;Kolstad Håndball;NOR;Norway
+253;Norway;Sebastian Barthold;LW;Aalborg Håndbold;DEN;Denmark
+254;Norway;Sander Øverjordet;CB;KIF Kolding;DEN;Denmark
+255;Norway;Henrik Jakobsen;P;GOG Håndbold;DEN;Denmark
+256;Norway;Petter Øverby;P;THW Kiel;GER;Germany
+257;Norway;Kristian Sæverås;GK;SC DHfK Leipzig;GER;Germany
+258;Norway;Erik Thorsteinsen Toft;LB;KIF Kolding;DEN;Denmark
+259;Norway;Kent Robin Tønnesen;RB;Paris Saint-Germain Handball;FRA;France
+260;Norway;Kristian Bjørnsen;RW;Aalborg Håndbold;DEN;Denmark
+261;Norway;Magnus Gullerud;P;Kolstad Håndball;NOR;Norway
+262;Norway;Tobias Grøndahl;CB;Elverum Håndball;NOR;Norway
+263;Norway;Gøran Johannessen;LB;Kolstad Håndball;NOR;Norway
+264;Norway;Christian O'Sullivan;CB;SC Magdeburg;GER;Germany
+265;Norway;Harald Reinkind;RB;THW Kiel;GER;Germany
+266;Norway;Torbjørn Bergerud;GK;Kolstad Håndball;NOR;Norway
+267;Norway;Gabriel Setterblom;RB;Kolstad Håndball;NOR;Norway
+268;Norway;Simen Lyse;LB;Kolstad Håndball;NOR;Norway
+269;Norway;Kevin Gulliksen;RW;TTH Holstebro;DEN;Denmark
+270;Norway;Alexander Blonz;LW;GOG Håndbold;DEN;Denmark
+271;Norway;Magnus Abelvik Rød;RB;Kolstad Håndball;NOR;Norway
+272;Poland;Mateusz Kornecki;GK;ThSV Eisenach;GER;Germany
+273;Poland;Damian Przytuła;LB;Górnik Zabrze;POL;Poland
+274;Poland;Michał Daszek;RB;Orlen Wisła Płock;POL;Poland
+275;Poland;Piotr Jędraszczyk;CB;Gwardia Opole;POL;Poland
+276;Poland;Michał Olejniczak;CB;Industria Kielce;POL;Poland
+277;Poland;Bartłomiej Bis;P;HSC 2000 Coburg;GER;Germany
+278;Poland;Szymon Sićko;LB;Industria Kielce;POL;Poland
+279;Poland;Paweł Paterek;CB;SPR Chrobry Głogów;POL;Poland
+280;Poland;Ariel Pietrasik;LB;Kadetten Schaffhausen;SUI;Switzerland
+281;Poland;Jakub Powarzyński;LB;Wybrzeże Gdańsk;POL;Poland
+282;Poland;Kamil Syprzak;P;Paris Saint-Germain;FRA;France
+283;Poland;Mateusz Kosmala;RW;MMTS Kwidzyn;POL;Poland
+284;Poland;Maciej Gębala;P;SC DHfK Leipzig;GER;Germany
+285;Poland;Jakub Szyszko;RW;Górnik Zabrze;POL;Poland
+286;Poland;Przemysław Urbaniak;LW;Ostrovia Ostrów Wielkopolski;POL;Poland
+287;Poland;Dawid Dawydzik;P;Orlen Wisła Płock;POL;Poland
+288;Poland;Mikołaj Czapliński;LW;CD Torrebalonmano;ESP;Spain
+289;Poland;Jakub Skrzyniarz;GK;CD Bidasoa;ESP;Spain
+290;Slovenia;Blaž Blagotinšek;P;SG Flensburg-Handewitt;GER;Germany
+291;Slovenia;Gašper Marguč;RW;Telekom Veszprém;HUN;Hungary
+292;Slovenia;Jure Dolenec;RB;Limoges Handball;FRA;France
+293;Slovenia;Miljan Vujović;GK;TVB Stuttgart;GER;Germany
+294;Slovenia;Nejc Cehte;RB;RK Eurofarm Pelister;MKD;North Macedonia
+295;Slovenia;Staš Jovičić;LW;RK Trimo Trebnje;SLO;Slovenia
+296;Slovenia;Tilen Kodrin;LW;VfL Gummersbach;GER;Germany
+297;Slovenia;Miha Zarabec;CB;Orlen Wisła Płock;POL;Poland
+298;Slovenia;Klemen Ferlin;GK;HC Erlangen;GER;Germany
+299;Slovenia;Kristjan Horžen;P;VfL Gummersbach;GER;Germany
+300;Slovenia;Tadej Mazej;LW;Celje Pivovarna Laško;SLO;Slovenia
+301;Slovenia;Dean Bombač;CB;OTP Bank-Pick Szeged;HUN;Hungary
+302;Slovenia;Borut Mačkovšek;LB;OTP Bank-Pick Szeged;HUN;Hungary
+303;Slovenia;Domen Novak;RW;HSG Wetzlar;GER;Germany
+304;Slovenia;Aleks Vlah;CB;Aalborg Håndbold;DEN;Denmark
+305;Slovenia;Urban Lesjak;GK;RK Eurofarm Pelister;MKD;North Macedonia
+306;Slovenia;Jernej Drobež;P;RK Gorenje Velenje;SLO;Slovenia
+307;Slovenia;Matic Suholežnik;P;RK Zagreb;CRO;Croatia
+308;Bosnia and Herzegovina;Mirko Herceg;LB;Csurgói KK;HUN;Hungary
+309;Bosnia and Herzegovina;Senjamin Burić;P;Skjern Håndbold;DEN;Denmark
+310;Bosnia and Herzegovina;Adi Mehmedćehajić;LW;RK Gračanica;BIH;Bosnia and Herzegovina
+311;Bosnia and Herzegovina;Marko Panić;RB;Montpellier Handball;FRA;France
+312;Bosnia and Herzegovina;Benjamin Burić;GK;SG Flensburg-Handewitt;GER;Germany
+313;Bosnia and Herzegovina;Mirsad Terzić;CB;Orlen Wisła Płock;POL;Poland
+314;Bosnia and Herzegovina;Adin Faljić;P;RK Zagreb;CRO;Croatia
+315;Bosnia and Herzegovina;Admir Ahmetašević;GK;Pfadi Winterthur;SUI;Switzerland
+316;Bosnia and Herzegovina;Luka Perić;RW;Celje Pivovarna Laško;SLO;Slovenia
+317;Bosnia and Herzegovina;Luka Knežević;LB;RK Sloboda Tuzla;BIH;Bosnia and Herzegovina
+318;Bosnia and Herzegovina;Nedim Hadžić;RB;RK Borac Banja Luka;BIH;Bosnia and Herzegovina
+319;Bosnia and Herzegovina;Dino Hamidović;LB;RK Gračanica;BIH;Bosnia and Herzegovina
+320;Bosnia and Herzegovina;Igor Mandić;LB;Sélestat Alsace Handball;FRA;France
+321;Bosnia and Herzegovina;Marko Davidović;CB;HT Tatran Prešov;SVK;Slovakia
+322;Bosnia and Herzegovina;Marko Majstorović;LW;MRK Krka;SLO;Slovenia
+323;Bosnia and Herzegovina;Vladan Đurđević;RW;RK Sloga Doboj;BIH;Bosnia and Herzegovina
+324;Bosnia and Herzegovina;Harun Hodžić;GK;Chambéry Savoie MHB;FRA;France
+325;Bosnia and Herzegovina;Amir Muhović;P;RK Borac Banja Luka;BIH;Bosnia and Herzegovina
+326;Georgia;George Lapiashvili;P;B.S.B. Batumi;GEO;Georgia
+327;Georgia;Khazein Rustamov;LW;MRK Iskra Bugojno;BIH;Bosnia and Herzegovina
+328;Georgia;Giorgi Areshidze;CB;HC Pegasi;GEO;Georgia
+329;Georgia;Irakli Kbilashvili;CB;AHC Potaissa Turda;ROU;Romania
+330;Georgia;Giorgi Tskhovrebadze;RB;VfL Gummersbach;GER;Germany
+331;Georgia;Zurab Tsintsadze;GK;KS Azoty-Puławy;POL;Poland
+332;Georgia;Teimuraz Orjonikidze;LB;GRK Ohrid;MKD;North Macedonia
+333;Georgia;Irakli Gogoladze;RW;B.S.B. Batumi;GEO;Georgia
+334;Georgia;Erekle Arsenashvili;P;BM Puente Genil;ESP;Spain
+335;Georgia;Sandro Darsania;RB;Belenenses;POR;Portugal
+336;Georgia;Zurab Gogava;RB;LHC Cottbus;GER;Germany
+337;Georgia;Zurab Abramishvili;LW;B.S.B. Batumi;GEO;Georgia
+338;Georgia;Miriani Gavashelishvili;LB;RK Metaloplastika;SRB;Serbia
+339;Georgia;Giorgi Dikhaminjia;RW;Město Lovosice;CZE;Czech Republic
+340;Georgia;David Nikabadze;GK;SGAU Saratov;RUS;Russia
+341;Georgia;Zuriko Simonia;CB;HC Kutaisi;GEO;Georgia
+342;Netherlands;Bart Ravensbergen;GK;Frisch Auf Göppingen;GER;Germany
+343;Netherlands;Ivar Stavast;CB;HC Elbflorenz Dresden;GER;Germany
+344;Netherlands;Janik van Zundert;RB;Bevo HC;NED;Netherlands
+345;Netherlands;Rutger ten Velde;LW;TuS Nettelstedt-Lübbecke;GER;Germany
+346;Netherlands;Niko Blaauw;LB;VfL Lübeck-Schwartau;GER;Germany
+347;Netherlands;Robin Schoenaker;LB;Sporting Pelt;BEL;Belgium
+348;Netherlands;Iso Sluijters;RB;GC Amicitia Zürich;SUI;Switzerland
+349;Netherlands;Samir Benghanem;P;Green Park/Handbal Aalsmeer;NED;Netherlands
+350;Netherlands;Bobby Schagen;RW;TBV Lemgo;GER;Germany
+351;Netherlands;Lars Kooij;P;TV Emsdetten;GER;Germany
+352;Netherlands;Kaj Geenen;LW;VfL Lübeck-Schwartau;GER;Germany
+353;Netherlands;Niels Versteijnen;RB;TBV Lemgo;GER;Germany
+354;Netherlands;Martijn Kleijkers;P;Limburg Lions;NED;Netherlands
+355;Netherlands;Luc Steins;CB;Paris Saint-Germain;FRA;France
+356;Netherlands;Jorn Smits;LB;Lemvig-Thyborøn Håndbold;DEN;Denmark
+357;Netherlands;Alec Smit;RW;SønderjyskE Elite;DEN;Denmark
+358;Netherlands;Tim Claessens;P;Achilles Bocholt;BEL;Belgium
+359;Netherlands;Arjan Versteijnen;GK;Bevo HC;NED;Netherlands
+360;Netherlands;Thomas Houtepen;CB;TBV Lemgo;GER;Germany
+361;Netherlands;Dani Baijens;CB;HSV Hamburg;GER;Germany
+362;Sweden;Jonathan Carlsbogård;LB;Barça;ESP;Spain
+363;Sweden;Max Darj;P;Füchse Berlin;GER;Germany
+364;Sweden;Daniel Pettersson;RW;SC Magdeburg;GER;Germany
+365;Sweden;Andreas Palicka;GK;Paris Saint-Germain;FRA;France
+366;Sweden;Sebastian Karlsson;RW;Montpellier Handball;FRA;France
+367;Sweden;Hampus Wanne;LW;Barça;ESP;Spain
+368;Sweden;Tobias Thulin;GK;GOG Håndbold;DEN;Denmark
+369;Sweden;Felix Claar;CB;SC Magdeburg;GER;Germany
+370;Sweden;Lucas Pellas;LW;Montpellier Handball;FRA;France
+371;Sweden;Albin Lagergren;RB;SC Magdeburg;GER;Germany
+372;Sweden;Jim Gottfridsson;CB;SG Flensburg-Handewitt;GER;Germany
+373;Sweden;Jonathan Edvardsson;CB;TSV Hannover-Burgdorf;GER;Germany
+374;Sweden;Simon Möller;GK;IK Sävehof;SWE;Sweden
+375;Sweden;Oscar Bergendahl;P;SC Magdeburg;GER;Germany
+376;Sweden;Lukas Sandell;RB;Telekom Veszprém;HUN;Hungary
+377;Sweden;Andreas Nilsson;P;Telekom Veszprém;HUN;Hungary
+378;Sweden;Eric Johansson;LB;THW Kiel;GER;Germany
+379;Sweden;Karl Wallinius;LB;THW Kiel;GER;Germany
+380;Czech Republic;Tomáš Mrkva;GK;THW Kiel;GER;Germany
+381;Czech Republic;Jakub Hrstka;LW;Dessau-Roßlauer HV;GER;Germany
+382;Czech Republic;Jan Hrdlička;GK;MKS Kalisz;POL;Poland
+383;Czech Republic;Tomáš Piroch;RB;Orlen Wisła Płock;POL;Poland
+384;Czech Republic;Jonáš Patzel;CB;HCB Karviná;CZE;Czech Republic
+385;Czech Republic;Jakub Štěrba;RW;ASV Hamm-Westfalen;GER;Germany
+386;Czech Republic;Martin Galia;GK;HCB Karviná;CZE;Czech Republic
+387;Czech Republic;Stanislav Kašpárek;RB;Dinamo București;ROU;Romania
+388;Czech Republic;Vít Reichl;P;TV Hüttenberg;GER;Germany
+389;Czech Republic;Tomáš Babák;CB;Bergischer HC;GER;Germany
+390;Czech Republic;Jaroslav Trkovský;LB;HK FCC Město Lovosice;CZE;Czech Republic
+391;Czech Republic;Matěj Havran;CB;HC Zubří;CZE;Czech Republic
+392;Czech Republic;Matěj Klíma;LB;SC DHfK Leipzig;GER;Germany
+393;Czech Republic;Vojtěch Patzel;LB;VfL Lübeck-Schwartau;GER;Germany
+394;Czech Republic;Dominik Solák;LB;HCB Karviná;CZE;Czech Republic
+395;Czech Republic;Lukáš Mořkovský;CB;Górnik Zabrze;POL;Poland
+396;Czech Republic;Štěpán Zeman;P;VfL Gummersbach;GER;Germany
+397;Czech Republic;Daniel Režnický;P;Ostrovia Ostrów Wielkopolski;POL;Poland
+398;Denmark;Niklas Landin Jacobsen;GK;Aalborg Håndbold;DEN;Denmark
+399;Denmark;Niclas Kirkeløkke;RB;Rhein-Neckar Löwen;GER;Germany
+400;Denmark;Magnus Landin Jacobsen;LW;THW Kiel;GER;Germany
+401;Denmark;Emil Jakobsen;LW;SG Flensburg-Handewitt;GER;Germany
+402;Denmark;Rasmus Lauge;CB;Bjerringbro-Silkeborg;DEN;Denmark
+403;Denmark;Emil Nielsen;GK;Barça;ESP;Spain
+404;Denmark;Magnus Saugstrup;P;SC Magdeburg;GER;Germany
+405;Denmark;Hans Lindberg;RW;Füchse Berlin;GER;Germany
+406;Denmark;Mathias Gidsel;RB;Füchse Berlin;GER;Germany
+407;Denmark;Henrik Møllgaard;LB;Aalborg Håndbold;DEN;Denmark
+408;Denmark;Mads Mensah Larsen;CB;SG Flensburg-Handewitt;GER;Germany
+409;Denmark;Mikkel Hansen;LB;Aalborg Håndbold;DEN;Denmark
+410;Denmark;Lukas Jørgensen;P;SG Flensburg-Handewitt;GER;Germany
+411;Denmark;Jóhan Hansen;RW;SG Flensburg-Handewitt;GER;Germany
+412;Denmark;Michael Damgaard;LB;SC Magdeburg;GER;Germany
+413;Denmark;Aaron Mensing;LB;GOG Håndbold;DEN;Denmark
+414;Denmark;Simon Hald;P;Aalborg Håndbold;DEN;Denmark
+415;Denmark;Simon Pytlick;CB;SG Flensburg-Handewitt;GER;Germany
+416;Denmark;Emil Wernsdorf Madsen;RB;GOG Håndbold;DEN;Denmark
+417;Greece;Dimitrios Panagiotou;CB;Doukas School;GRE;Greece
+418;Greece;Theodoros Boskos;LB;BM Puente Genil;ESP;Spain
+419;Greece;Nikolaos Liapis;P;AEK Athens;GRE;Greece
+420;Greece;Charalampos Mallios;CB;AEK Athens;GRE;Greece
+421;Greece;Eleftherios Papazoglou;GK;AC PAOK;GRE;Greece
+422;Greece;Stefanos Michailidis;P;Olympiacos;GRE;Greece
+423;Greece;Nikolaos Passias;LB;Olympiacos;GRE;Greece
+424;Greece;Achilleas Toskas;RB;Bianco Monte;GRE;Greece
+425;Greece;Petros Boukovinas;GK;TV Großwallstadt;GER;Germany
+426;Greece;Georgios Papavasilis;LW;Olympiacos;GRE;Greece
+427;Greece;Panagiotis Karampourniotis;P;Olympiacos;GRE;Greece
+428;Greece;Athanasios Papazoglou;RB;AC PAOK;GRE;Greece
+429;Greece;Dimitrios Tziras;RW;Olympiacos;GRE;Greece
+430;Greece;Petros Kandylas;CB;Olympiacos;GRE;Greece
+431;Greece;Anastasios Papadionysiou;P;AEK Athens;GRE;Greece
+432;Greece;Evangelos Arampatzis;RW;AEK Athens;GRE;Greece
+433;Greece;Panagiotis Papantonopoulos;GK;Olympiacos;GRE;Greece
+434;Greece;Savvas Savvas;LB;Olympiacos;GRE;Greece
+435;Greece;Christos Kederis;LW;AEK Athens;GRE;Greece
+436;Portugal;Pedro Portela;RW;Sporting CP;POR;Portugal
+437;Portugal;Gilberto Duarte;LB;Pays d'Aix UC;FRA;France
+438;Portugal;Miguel Martins;CB;OTP Bank-Pick Szeged;HUN;Hungary
+439;Portugal;Rui Silva;CB;FC Porto;POR;Portugal
+440;Portugal;Diogo Rêma Marques;GK;FC Porto;POR;Portugal
+441;Portugal;Leonel Fernandes;LW;FC Porto;POR;Portugal
+442;Portugal;Alexandre Cavalcanti;LB;HBC Nantes;FRA;France
+443;Portugal;António Areia;RW;FC Porto;POR;Portugal
+444;Portugal;Francisco Costa;RB;Sporting CP;POR;Portugal
+445;Portugal;Fábio Silva;P;Associação Artística de Avanca;POR;Portugal
+446;Portugal;Salvador Salvador;LB;Sporting CP;POR;Portugal
+447;Portugal;Gonçalo Vieira;CB;Fenix Toulouse;FRA;France
+448;Portugal;Gustavo Capdeville;GK;SL Benfica;POR;Portugal
+449;Portugal;Pedro Oliveira;LW;FC Porto;POR;Portugal
+450;Portugal;Joaquim Nazaré;RB;Skjern Håndbold;DEN;Denmark
+451;Portugal;Martim Costa;CB;Sporting CP;POR;Portugal
+452;Portugal;Luís Frade;P;Barça;ESP;Spain
+453;Portugal;Ricardo Brandão;P;CB Cangas;ESP;Spain
